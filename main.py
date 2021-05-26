@@ -485,5 +485,5 @@ async def tgplay(_, message):
 
 
 app.start()
-print("\nBot Starting...\nFor Support Join https://t.me/TGVCSUPPORT\n")
+print("\nBot Starting...\nFor Support Join https://t.me/CrackMonkey\n")
 idle()
